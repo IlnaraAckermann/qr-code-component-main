@@ -20,14 +20,15 @@ p {
 }
 main {
     background-color: hsl(0, 0%, 100%);
-    max-width: 21em;
+    max-width: 320px;
     text-align: center;
-    padding: 1em;
-    border-radius: 1.2em;
+    padding: 16px;
+    border-radius: 20px;
 }
 
 .imgQR {    
-    border-radius: 1em;
+    border-radius: 10px;
+    width: 288px;
 }
 
 footer {
@@ -35,7 +36,7 @@ footer {
     bottom: 0;
     left: 0;
     right: 0;
-    padding: 5px;
+    padding: 5;
 }
 
 .attribution { font-size: 11px; text-align: center; }
